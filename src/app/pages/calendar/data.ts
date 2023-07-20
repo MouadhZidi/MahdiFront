@@ -19,7 +19,7 @@ const category = [
         value: 'bg-primary'
     },
     {
-        name: 'Info',
+        name: 'Primary',
         value: 'bg-info'
     },
     {
